@@ -1,0 +1,8 @@
+{
+  "name": "huanwu-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "二手交易平台展示站",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
